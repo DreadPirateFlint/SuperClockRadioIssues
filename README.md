@@ -23,9 +23,9 @@ This repository exists *only* to track issues, bugs, and feature requests for ou
 ## 🔔 Notifications
 
 We monitor this repo closely and will respond when we can. You can also:
-- [Watch this repo](https://github.com/[your-org]/[this-repo]/watchers) to get updates on bugfixes and releases.
-- Contact us directly via [email or contact form](mailto:support@example.com) if needed.
+- [Watch this repo](https://github.com/DreadPirateFlint/SuperClockRadioIssues/watchers) to get updates on bugfixes and releases.
+- Contact us directly via email (mailto:support@echologictechnologies.com) if needed.
 
 ---
 
-Thanks for helping us make **[Your Project Name]** better! 🚀
+Thanks for helping us make **SuperClockRadio** better! 🚀
