@@ -1,4 +1,4 @@
-# 📌 Welcome to the Public Issues Tracker for **[Your Project Name]**
+# 📌 Welcome to the Public Issues Tracker for **SuperClockRadio**
 
 Hi there! 👋  
 This repository exists *only* to track issues, bugs, and feature requests for our private project, SuperClockRadio.
